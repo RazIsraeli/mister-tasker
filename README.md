@@ -1,10 +1,10 @@
 # mister-tasker
 Backend + Frontend task management app, created with Vue.js and microservices
 
-## Running the app:
-# Production:
+# Running the app:
+## Production:
     mister-tasker-production.up.railway.app
-# To run locally:
+## To run locally:
     1. open the backend folder with vscode and run "npm start" (should run the server on port 3030).
     2. open the frontend folder with vscode and run "npm start" (should create the app in port 5173).
 
