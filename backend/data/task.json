@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Get rid of nonsense data",
+    "status": "new",
+    "description": "Clean db from all trash data",
+    "importance": 1,
+    "lastTriedAt": "",
+    "triesCount": 0,
+    "doneAt": "",
+    "errors": []
+  },
+  {
+    "title": "Run stats query ",
+    "status": "new",
+    "description": "make sure to run midnight job that updates all stats in the server",
+    "importance": 1,
+    "lastTriedAt": "",
+    "triesCount": 0,
+    "doneAt": "",
+    "errors": []
+  },
+  {
+    "title": "Wake up all machines",
+    "status": "new",
+    "description": "Warm up all sleeping machines before the heavy load of the morning comes",
+    "importance": 1,
+    "lastTriedAt": "",
+    "triesCount": 0,
+    "doneAt": "",
+    "errors": []
+  },
+  {
+    "title": "Read all documents and update",
+    "status": "new",
+    "description": "Read documents and update the status accordingly.",
+    "importance": 1,
+    "lastTriedAt": "",
+    "triesCount": 0,
+    "doneAt": "",
+    "errors": []
+  },
+  {
+    "title": "Execute all jobs at midnight",
+    "status": "new",
+    "description": "Run all jobs that need to run at midnight exactly, consider time differences.",
+    "importance": 1,
+    "lastTriedAt": "",
+    "triesCount": 0,
+    "doneAt": "",
+    "errors": []
+  },
+  {
+    "title": "Replace all machines in cluster",
+    "status": "new",
+    "description": "Find all old machines in cluster and replace with new ones.",
+    "importance": 1,
+    "lastTriedAt": "",
+    "triesCount": 0,
+    "doneAt": "",
+    "errors": []
+  }
+]
