@@ -9,9 +9,8 @@ Backend + Frontend task management app, created with Vue.js and microservices
     2. open the frontend folder with vscode and run "npm start" (should create the app in port 5173).
 
 ## App Description
-A task management app where the user can manage their tasks.
+A task management app where the user can manage all the tasks.
 The app requires login (it is possible to sign up in the first time).
-There are restrictions about editing/deleting tasks that were created by other users.
 
 There is a micro service that is separated from the main server, which was created to run automatically upon user's decision and try to close tasks automatically.
 The microservice will try to resolve the task up to 3 times, and in case of 3 consecutive failures will stop trying.
