@@ -3,10 +3,10 @@ Backend + Frontend task management app, created with Vue.js and microservices
 
 ## Running the app:
 #Production:
-mister-tasker-production.up.railway.app
+    mister-tasker-production.up.railway.app
 # To run locally:
-    2.1 open the backend folder with vscode and run "npm start" (should run the server on port 3030).
-    2.2 open the frontend folder with vscode and run "npm start" (should create the app in port 5173).
+    1. open the backend folder with vscode and run "npm start" (should run the server on port 3030).
+    2. open the frontend folder with vscode and run "npm start" (should create the app in port 5173).
 
 ## App Description
 A task management app where the user can manage their tasks.
